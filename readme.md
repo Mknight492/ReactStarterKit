@@ -20,7 +20,7 @@ Linting:
     ESLint/TSLint // currently using TS lint but will aim to swap to ES once well integrated
 
 Styling:
-    beautify    (NB: additional settings in VSCode)
+    beautify    (NB: additional settings in editor config)
 
 Transpiling:
     Webpack
