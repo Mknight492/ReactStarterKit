@@ -5,6 +5,10 @@ currently using:
 Server:
     webpack dev server
 
+packageManagement:
+    npm
+    yarn
+    
 CSS:
     SCSS with CSS modules
 
